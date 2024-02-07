@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+}
+h1{
+    color:white!important;
+    font-weight: bold !important;
+    background-color:red !important;
+    font-size: 50px;
+}
